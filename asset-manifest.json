@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/abel-portal-show/static/css/main.71a8c7d1.css",
-    "main.js": "/abel-portal-show/static/js/main.4058e5e1.js",
+    "main.css": "/abel-portal-show/static/css/main.e509124e.css",
+    "main.js": "/abel-portal-show/static/js/main.2e815102.js",
     "static/media/ani-tiles.exr": "/abel-portal-show/static/media/ani-tiles.feaa1a2d60a51182c6e3.exr",
     "static/media/background.mp3": "/abel-portal-show/static/media/background.c2d6cc13557aa42149d6.mp3",
     "static/media/color-tiles.png": "/abel-portal-show/static/media/color-tiles.b7e02a3d594a01ccaae3.png",
@@ -23,11 +23,11 @@
     "index.html": "/abel-portal-show/index.html",
     "static/media/icon_close.svg": "/abel-portal-show/static/media/icon_close.51678eb946328fbdfab5c955d06a3020.svg",
     "static/media/loading.svg": "/abel-portal-show/static/media/loading.a856479d627970d1bcdee4e4f4abe613.svg",
-    "main.71a8c7d1.css.map": "/abel-portal-show/static/css/main.71a8c7d1.css.map",
-    "main.4058e5e1.js.map": "/abel-portal-show/static/js/main.4058e5e1.js.map"
+    "main.e509124e.css.map": "/abel-portal-show/static/css/main.e509124e.css.map",
+    "main.2e815102.js.map": "/abel-portal-show/static/js/main.2e815102.js.map"
   },
   "entrypoints": [
-    "static/css/main.71a8c7d1.css",
-    "static/js/main.4058e5e1.js"
+    "static/css/main.e509124e.css",
+    "static/js/main.2e815102.js"
   ]
 }
